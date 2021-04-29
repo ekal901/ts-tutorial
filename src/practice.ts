@@ -1,3 +1,9 @@
+// npm i -g ts-node --> typescript 실행을 위한 라이브러리
+// codeRunner --> vsCode extension 설치
+
+// tsc -- init 실행, ourDir 수정
+// npx tsc --> dist 경로(tsconfig.json에서 설정, "outDir": "./dist") 경로 아래에 컴파일된 js파일 생성
+
 // interface 사용해보기
 
 interface Shape {
